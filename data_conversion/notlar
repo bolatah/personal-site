@@ -1,0 +1,15 @@
+<div className="card">
+        <div className="card-body" style={{fontSize: 10 }}>
+        *EU15 is named to refer the first 15 participant countries. They are: Austria, Belgium, Denmark, Finland, France, Germany, Greece, 
+        Ireland, Italy, Luxembourg, Netherlands,
+        Portugal, Spain, Sweden and United Kingdom
+        </div>
+    </div>
+
+<div className="card">
+      <div className="card-body" style={{fontSize: 10 }}>
+      *EU12 is named arbitrarily to refer the last 12 participants of EU 
+      at the time of writing the thesis (2010). They are: Bulgaria, Cyprus, Czech Republic, 
+      Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Romania, Slovak Republic, Slovenia
+
+      </div>
